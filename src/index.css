@@ -11,3 +11,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.app-container {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+textarea {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.statistics {
+  margin: 20px 0;
+}
+
+.replacement-section {
+  margin: 20px 0;
+}
+
+input {
+  margin-right: 10px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+button {
+  padding: 5px 10px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
